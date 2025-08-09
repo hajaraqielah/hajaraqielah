@@ -1,7 +1,18 @@
-## Hi! Just a little information on me ~
+## Welcome & Nice to Meet You 🙋‍♀️
 
-- 🔭 I’m currently transitioning into fintech and digital banking industry from agriculture background. Kinda scared but I love it!
-- 🌱 I’m currently learning to improve my technology usage by being chronically online
-- 👯 I’m looking to collaborate on my skills on Github. I'm such a beginner but everyone also starts from somewhere, right?
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a big reader!
+Hi👋 I'm Hajar! <br>
+I am an aspiring Data Analyst who aimed to develop myself professionally and contribute effectively to innovative projects. I was a recipient of Khazanah Nasional's K-Youth Development Programme under Fundamentals of Fintech. <br>
+
+📚 Projects <br>
+Kindly refer here for my [projects ](https://github.com/hajaraqielah?tab=projects).
+
+💻 Tools<br>
+Microsoft Office 365 | Power BI | Tableau | Visual Studio Code | SQL | Python <br>
+
+📂 Certifications<br>
+Certificate in Fintech for Finance and Business Leaders	(ACCA)<br>
+
+🔗 Explore Further <br>
+[LinkedIn](https://www.linkedin.com/in/sitihajaraqielah/)
+
+
